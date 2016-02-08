@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cygwin.so.debug.1060150164/C\:\\MSYS64\\MINGW64\\BIN/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cygwin.so.debug.1060150164/C\:\\MSYS64\\MINGW64\\BIN/operation=remove
+environment/project/cdt.managedbuild.config.gnu.cygwin.so.debug.1060150164/MINGW_HOME/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cygwin.so.debug.1060150164/MINGW_HOME/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cygwin.so.debug.1060150164/MINGW_HOME/value=C\:\\msys64\\mingw64
+environment/project/cdt.managedbuild.config.gnu.cygwin.so.debug.1060150164/MSYS_HOME/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cygwin.so.debug.1060150164/MSYS_HOME/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cygwin.so.debug.1060150164/MSYS_HOME/value=C\:\\msys64\\bin
+environment/project/cdt.managedbuild.config.gnu.cygwin.so.debug.1060150164/PDPATH/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cygwin.so.debug.1060150164/PDPATH/operation=append
+environment/project/cdt.managedbuild.config.gnu.cygwin.so.debug.1060150164/PDPATH/value=c\:\\progra~2\\pd\\
+environment/project/cdt.managedbuild.config.gnu.cygwin.so.debug.1060150164/append=true
+environment/project/cdt.managedbuild.config.gnu.cygwin.so.debug.1060150164/appendContributed=true
